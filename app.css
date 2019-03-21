@@ -29,9 +29,10 @@ span {
 .boxes {
     margin: 1em;
     padding: 1em;
-    border-color: darkgoldenrod;
+    border: 3px solid black;
     border-radius: 1em;
-    border-width: 30em;
+    width: 30em;
+    display: block;
 }
 
 #box1 {
