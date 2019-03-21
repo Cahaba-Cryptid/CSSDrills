@@ -3,7 +3,7 @@ body {
     background-color: lightgray;
 }
 
-h2, p, a {
+h2, p {
     text-align: center
 }
 
@@ -49,4 +49,59 @@ span {
 
 #box4 {
     background-color: cornflowerblue;
+}
+
+.image-div {
+    height: 50px;
+    width: 50px;
+    border-radius: 50px;
+    background-color: teal;
+}
+
+h1 {
+    color: darkblue;
+}
+
+.original {
+    color: saddlebrown;
+}
+
+.additional {
+    color: chartreuse;
+}
+
+#show1 {
+    color: blueviolet;
+}
+
+#show2 {
+    color: steelblue;
+}
+
+#show3 {
+    color: crimson;
+}
+
+#show4 {
+    color: darkkhaki;
+}
+
+#show5 {
+    color: indianred;
+}
+
+ul {
+    color: darkmagenta;
+}
+
+.star {
+    color: yellowgreen;
+}
+
+#wars {
+    color: tomato;
+}
+
+.last {
+    border: 2px solid black;
 }
